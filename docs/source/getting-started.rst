@@ -35,7 +35,7 @@ requisite 'requests' module to enable this tool to work.
 It presently handles uploading user data in performance archive directories from 
 all E3SM supported machines. The server checks for duplicates while processing uploaded data.
 
-Please `see the demo <https://pace.ornl.gov/static/demo/pace-upload.mp4>`_ for reference. A log file is written at the end that details the upload progress and notes any errors.
+Please `see the demo <https://www.youtube.com/watch?v=Vd3q3mJPQFs>`_ for reference. A log file is written at the end that details the upload progress and notes any errors.
 
 Usage
 ----------------
