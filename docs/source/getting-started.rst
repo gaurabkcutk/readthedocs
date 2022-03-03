@@ -15,12 +15,14 @@ to upload experiment data directly from supercomputers.
 To download using command line:
 
 Python 2 version
+
 .. code-block:: console
 
    $ wget https://pace.ornl.gov/static/tools/pace-upload
    $ chmod +x ./pace-upload
 
 Python 3 version
+
 .. code-block:: console
 
    $ wget https://pace.ornl.gov/static/tools/pace-upload3
