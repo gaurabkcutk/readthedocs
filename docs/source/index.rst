@@ -22,5 +22,6 @@ Contents
 
    getting-started
    experiments
+   team
 
 
