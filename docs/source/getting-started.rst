@@ -43,11 +43,13 @@ Usage
 Example:
 
 .. code-block:: console
+
    $ ./pace-upload --perf-archive user-exps-set
 
 Detailed usage:
 
 .. code-block:: console
+   
    $ ./pace-upload --help
    usage: pace-upload [-h] [--exp-dir SOURCE] [--perf-archive SOURCE]
                    [--application {e3sm}]
