@@ -40,6 +40,11 @@ Please `see the demo <https://pace.ornl.gov/static/demo/pace-upload.mp4>`_ for r
 Usage
 ----------------
 
+Example:
+
+.. code-block:: console
+   $ ./pace-upload --perf-archive user-exps-set
+
 Detailed usage:
 
 .. code-block:: console
@@ -57,9 +62,4 @@ Detailed usage:
                               multiple performance archive directories under root
       --application {e3sm}, -a {e3sm}
                               Application name
-
-Example:
-
-.. code-block:: console
-   $ ./pace-upload --perf-archive user-exps-set
 
