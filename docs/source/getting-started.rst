@@ -46,9 +46,7 @@ Detailed usage:
    $ ./pace-upload --help
    usage: pace-upload [-h] [--exp-dir SOURCE] [--perf-archive SOURCE]
                    [--application {e3sm}]
-   
    PACE upload tool.
-
    optional arguments:
       -h, --help            show this help message and exit
       --exp-dir SOURCE, -ed SOURCE
