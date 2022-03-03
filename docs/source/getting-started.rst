@@ -41,6 +41,7 @@ Usage
 ----------------
 
 Detailed usage:
+
 .. code-block:: console
    $ ./pace-upload --help
    usage: pace-upload [-h] [--exp-dir SOURCE] [--perf-archive SOURCE]
@@ -60,6 +61,7 @@ Detailed usage:
                               Application name
 
 Example:
+
 .. code-block:: console
    $ ./pace-upload --perf-archive user-exps-set
 
