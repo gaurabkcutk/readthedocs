@@ -4,17 +4,16 @@ Team
 Development Team
 ------------
 
-`Sarat Sreepathi <https://sarats.com/>`_, Oak Ridge National Laboratory
-
-`Gaurab KC <https://www.linkedin.com/in/gaurab-kc>`_, Oak Ridge National Laboratory
+- `Sarat Sreepathi <https://sarats.com/>`_, Oak Ridge National Laboratory
+- `Gaurab KC <https://www.linkedin.com/in/gaurab-kc>`_, Oak Ridge National Laboratory
 
 In collaboration with:
 
-Youngsung Kim, Oak Ridge National Laboratory
+- Youngsung Kim, Oak Ridge National Laboratory
 
 Past Students:
 
-Zachary Mitchell, Pellissippi State Community College
+- Zachary Mitchell, Pellissippi State Community College
 
 
 Acknowledgements

@@ -1,6 +1,8 @@
 Getting-Started
 =====
 
+First, download the pace upload client and run the client to upload experiments to PACE.
+
 .. _tool:
 
 Tool
