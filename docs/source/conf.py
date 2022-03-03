@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'PACE'
+copyright = '2019-2021 E3SM Project | All rights reserved'
+author = 'Gaurab KC'
 
 release = '0.1'
 version = '0.1.0'
