@@ -21,7 +21,8 @@ Contents
 .. toctree::
 
    getting-started
-   experiments
+   homepage
+   api
    team
 
 
