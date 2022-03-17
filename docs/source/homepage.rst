@@ -36,3 +36,9 @@ To compare multiple experiments, Check box for your desire experiments and follo
 This will allow for multiple experiments to be viewed simultaneously in their respective graphs.
 
 .. image:: pictures/homeScreen.png
+
+More details on Multiple experiments
+
+.. toctree::
+
+    multiple-experiment
