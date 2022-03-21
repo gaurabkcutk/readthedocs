@@ -22,7 +22,6 @@ Contents
 
    getting-started
    homepage
-   api
    team
 
 
