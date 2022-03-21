@@ -29,15 +29,17 @@ Atmosphere componenet graph
 
 This graph shows the time distribution of the atmosphere component process time distribution. Following process time are displayed in the graph
 
-+---------+------------+
-| Label   | Timer(s)   |
-+=========+============+
-| Convention   | 'a:moist_convection'   |
-+--------------+------------------------+
-| CLUBB  | 'a:macrop_tend'  |
-+--------+------------------+
-| Aerosol  | 'a:microp_aero_run' + 'a:tphysbc_aerosols' |
-+----------+--------------------------------------------+
+.. table::
+
++---------------+-------------------------------------------+
+| Label         | Timer(s)                                  |
++===============+===========================================+
+| Convention    | 'a:moist_convection'                      |
++---------------+-------------------------------------------+
+| CLUBB         | 'a:macrop_tend'                           |
++---------------+-------------------------------------------+
+| Aerosol       | 'a:microp_aero_run' + 'a:tphysbc_aerosols'|
++---------------+-------------------------------------------+
 
 
 .. image:: pictures/homeScreen.png
