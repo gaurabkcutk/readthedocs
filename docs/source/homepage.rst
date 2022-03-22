@@ -10,9 +10,12 @@ To navigate to the portal go to `Performance Analytics for Computational Experim
 There is a high level navigation menu based on sepcific platforms, benchmarks, simulations on top of the page. Navigating through this will
 load up the 10 most recent experiments on that respective area and to view more click on the More Exps button at bottom of the list. 
 
-.. image:: pictures/homeScreen.png
+.. image:: pictures/HomeScreenHighLevel.png
 
-User can also serach for any specific experiments using the search functionality.
+User can also serach for any specific experiments using the search functionality. The experiments can be sorted by available option in both ascending and descending order.
+
+.. image:: pictures/homeScreenSearch.png
+
 
 
 Single Experiment
