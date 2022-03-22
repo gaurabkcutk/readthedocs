@@ -28,6 +28,8 @@ Atmosphere componenet graph
 ----------------
 
 This graph shows the time distribution of the atmosphere component process. Following process time are displayed in the graph
+To view for specific experiments, click on labels on top of graph which will hide/show that data point.
+Use labels to filter further down to your interest.
 
 .. table::
 
