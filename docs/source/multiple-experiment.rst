@@ -11,7 +11,7 @@ Available graphs buttons will light up green.
 Flame graph
 ------------
 
-looking at how time is distributed on various application ridges. Flame graph helps to view the row of various processes time distribution.
+Looking at how time is distributed on various application ridges. Flame graph helps to view the row of various processes time distribution.
 The time process can be navigeted further deeper by clicking on the process time bar in flame graph.
 
 .. image:: pictures/homeScreen.png
@@ -27,7 +27,7 @@ Tree graph shows the time distributed for each componenent of process time as a 
 Atmosphere componenet graph
 ----------------
 
-This graph shows the time distribution of the atmosphere component process time distribution. Following process time are displayed in the graph
+This graph shows the time distribution of the atmosphere component process. Following process time are displayed in the graph
 
 .. table::
 

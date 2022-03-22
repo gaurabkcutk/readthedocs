@@ -1,4 +1,4 @@
-Getting-Started
+Getting-Started-Upload
 =====
 
 First, download the pace upload client and run the client to upload experiments to PACE.
