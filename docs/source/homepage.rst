@@ -12,11 +12,30 @@ load up the 10 most recent experiments on that respective area and to view more 
 
 .. image:: pictures/HomeScreenHighLevel.png
 
-User can also serach for any specific experiments using the search functionality. The experiments can be sorted by available option in both ascending and descending order.
+User can also serach for any specific experiments using the search functionality. This is a free form search with auto complete. 
+The experiments can be sorted by available option in both ascending and descending order.
+Advanced search capability is also available. For example looking for specific user and machine combination, we can do:
+
+.. code-block:: console
+
+    user:gaurab machine:summit
+
+More than one search can also be performed at a time by using pipe (|) for search queries. For example looking for experiments by 2 different users, we can do:
+
+.. code-block:: console
+
+    user:gaurab | user:sarat
+
+If you are looking for a exact match prepend '$' keyword to your search query.
+More details about advanced search can be found `here <https://pace.ornl.gov/searchTips/>`_ .
 
 .. image:: pictures/homeScreenSearch.png
 
+Another capability available is a summary scatter plot. Click on the 'Scatter Plot' button on top right. This will display a scatter graph.
+The summary can be displayed for Machine, User, Compset and Res. To view for specific experiments, click on labels on top of graph which will hide/show that data point.
+Use labels to filter further down to your interest.
 
+.. image:: pictures/homeScreenScatterPlot.png
 
 Single Experiment
 -------------------
