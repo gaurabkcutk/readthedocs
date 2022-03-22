@@ -5,7 +5,7 @@ After checking the box for your desired experiments.
 Available graphs are flame, tree and atmosphere component.
 Available graphs buttons will light up green.
 
-.. image:: pictures/homeScreen.png
+.. image:: pictures/HomeScreenMultipleCompare.png
 
 
 Flame graph
@@ -14,7 +14,7 @@ Flame graph
 Looking at how time is distributed on various application ridges. Flame graph helps to view the row of various processes time distribution.
 The time process can be navigeted further deeper by clicking on the process time bar in flame graph.
 
-.. image:: pictures/homeScreen.png
+.. image:: pictures/flameGraphMultiple.png
 
 
 Tree graph
@@ -22,7 +22,7 @@ Tree graph
 
 Tree graph shows the time distributed for each componenent of process time as a bar chart.
 
-.. image:: pictures/homeScreen.png
+.. image:: pictures/treeGraphMultiple.png
 
 Atmosphere componenet graph
 ----------------
@@ -56,7 +56,7 @@ This graph shows the time distribution of the atmosphere component process. Foll
 +-------------------+-------------------------------------------+
 
 
-.. image:: pictures/homeScreen.png
+.. image:: pictures/atmGraphMultiple.png
     
 
 
