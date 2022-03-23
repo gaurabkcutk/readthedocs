@@ -9,7 +9,7 @@ To download experiment click on Download Raw Data.
 
 To add notes to this experiment, click on Add/Edit button which will open up a new tab where you can add notes and save it.
 
-.. image:: pictures/expNotes.png
+.. image:: pictures/expNotes.PNG
 
 More details on graphs
 
@@ -27,7 +27,7 @@ Model Component
 
 In Model Component section, it displays the runtime table and PE layout of the model components.
 
-.. image:: pictures/modelComponent.png
+.. image:: pictures/modelComponent.PNG
 
 
 Model Input Files
@@ -36,4 +36,4 @@ Model Input Files
 In this sections, all the model input files are stored and can be viewed in detail by clicking on it. Following Input file are 
 available XML Inputs, Namelist Inputs, and RC Inputs.
 
-.. image:: pictures/modelInputFile.png
+.. image:: pictures/modelInputFile.PNG
