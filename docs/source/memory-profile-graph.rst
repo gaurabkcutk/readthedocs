@@ -14,7 +14,7 @@ Both Resident and Virtual memory profiling graph is displayed. Click on labels t
 
 Resident Memory Profile (RSS) graph
 
-.. image:: pictures/RSSgraph
+.. image:: pictures/RSSgraph.png
 
 Virtual Memory Profile (VSZ) graph
 
