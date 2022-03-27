@@ -20,8 +20,8 @@ Contents
 
 .. toctree::
 
-   getting-started
    homepage
+   getting-started
    team
 
 
